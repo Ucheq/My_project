@@ -74,7 +74,7 @@ body {
 	font-family: "lora-regular", serif;
 	font-size: 1.7rem;
 	line-height: 3rem;
-	color: #6e6e6e;
+	color: rgba(255, 255, 255, 0.7);
 }
 
 /**
@@ -82,7 +82,7 @@ body {
  * -------------------------------------------------------------------
  */
 a, a:visited {
-	color: #6e6e6e;
+	color: rgba(255, 255, 255, 0.7);
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
 	-webkit-transition: all 0.3s ease-in-out;
@@ -157,7 +157,7 @@ p.lead {
 	font-family: "lora-regular", serif;
 	font-size: 2rem;
 	line-height: 1.8;
-	color: #888888;
+	color: rgba(255, 255, 255, 0.7);
 }
 @media only screen and (max-width:768px) {
 	p.lead {
@@ -526,7 +526,6 @@ select {
 	padding: 1.5rem 0;
 	border: 0;
 	outline: none;
-	vertical-align: middle;
 	color: #313131;
 	font-family: "poppins-regular", sans-serif;
 	font-size: 1.5rem;
@@ -904,38 +903,6 @@ button::-moz-focus-inner, input::-moz-focus-inner {
  *
  * ---------------------------------------------------------------------
  */
-.stats-tabs {
-	padding: 0;
-	margin: 3rem 0;
-}
-.stats-tabs li {
-	display: inline-block;
-	margin: 0 1.5rem 3rem 0;
-	padding: 0 1.5rem 0 0;
-	border-right: 1px solid #ccc;
-}
-.stats-tabs li:last-child {
-	margin: 0;
-	padding: 0;
-	border: none;
-}
-.stats-tabs li a {
-	display: inline-block;
-	font-size: 2.5rem;
-	font-family: "poppins-bold", sans-serif;
-	border: none;
-	color: #252525;
-}
-.stats-tabs li a:hover {
-	color: #c37c2b;
-}
-.stats-tabs li a em {
-	display: block;
-	margin: .6rem 0 0 0;
-	font-size: 1.4rem;
-	font-family: "poppins-regular", sans-serif;
-	color: #888888;
-}
 
 /**
  * skillbars - (_skillbars.scss)
@@ -1025,7 +992,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	background: #ebebeb;
 }
 .grey-section p.lead {
-	color: #7d7d7d;
+	color: rgba(255, 255, 255, 0.7);
 }
 .section-intro {
 	max-width: 700px;
@@ -1297,7 +1264,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #intro {
-	background: #151515 url("../images/14139961_5442676.jpg") no-repeat center bottom;
+	background: #151515 url("../images/portfolio/mohammad-rahmani-LrxSl4ZxoRs-unsplash.jpg") no-repeat center bottom;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -1550,7 +1517,7 @@ header .logo a {
 .about-content .info-list li span {
 	display: block;
 	font-family: "poppins-regular", sans-serif;
-	color: whitesmoke;
+	color: rgba(255, 255, 255, 0.7);
 	font-size: 1.5rem;
 	line-height: 1;
 }
@@ -1692,7 +1659,7 @@ header .logo a {
 #resume .timeline-header p {
 	font-family: "poppins-regular", sans-serif;
 	font-size: 1.6rem;
-	color: #888888;
+	color: rgba(255, 255, 255, 0.7);
 }
 #resume .timeline-content {
 	margin-left: 35%;
@@ -2042,7 +2009,7 @@ header .logo a {
 	text-align: center;
 }
 #cta p.lead {
-	color: #6e6e6e;
+	color: rgba(255, 255, 255, 0.7);
 }
 .cta-content {
 	max-width: 640px;
@@ -2080,7 +2047,7 @@ header .logo a {
 	color: #313131;
 }
 .section-ads span {
-	color: #6e6e6e;
+	color: rgba(255, 255, 255, 0.7);
 }
 
 /**
@@ -2540,7 +2507,7 @@ footer .footer-social li a {
 }
 footer .copyright span {
 	display: inline-block;
-	color: #888888;
+	color: rgba(255, 255, 255, 0.7);
 }
 footer .copyright span::after {
 	content: "|";

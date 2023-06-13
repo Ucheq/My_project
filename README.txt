@@ -1,130 +1,86 @@
 
 ==================================================================================================
+MY FRONTEND DEVELOPMENT PORTFOLIO:
 
-KARDS is a modern and clean personal vCard website template. It has many cool features found
-in premium templates. It has timeline items, stats section, skillbars, working ajax form,
-frontend form validation, a portfolio section to showcase your works and many more. It looks 
-great on all devices from mobile to desktop. It's also retina ready so your site will look 
-crisp and sharp on any device. Kards is the ideal template for creating digital personal resume 
-and portfolio website.
-
+This is a portfolio website showcasing my frontend development skills and projects. It serves
+as a platform to introduce myself, display my contact information, highlight my portfolio of
+projects, and provide a home section for general information.
 ==================================================================================================
+
+--------------------------------------------------------------------------------------------------
+SECTIONS:
+
+Home
+The "Home" section is the landing page of the website. It serves as a welcome page, providing 
+a brief overview of what visitors can expect to find on the site. It may also include a visually 
+appealing design element or background image to create an engaging first impression.
+
+About Me:
+In the "About Me" section, you will find a brief introduction to who I am as a frontend 
+developer. It includes information about my background, education, and relevant skills. 
+I aim to give visitors a glimpse into my passion for web development and my commitment to 
+creating user-friendly and visually appealing experiences.
+
+Portfolio
+The "Portfolio" section showcases a selection of my best frontend projects. Each project 
+is accompanied by a description, key features, technologies used, and a link to view the 
+project live. I believe this section will demonstrate my proficiency in front-end development
+and give visitors an idea of my capabilities.
+
+Contact
+The "Contact" section provides various ways to get in touch with me. You will find my email 
+address, phone number, and links to my social media profiles. Feel free to reach out if you 
+have any inquiries, collaboration opportunities, or simply want to connect.
+----------------------------------------------------------------------------------------------------- 
 
 
 LICENSE:
-KARDS is released under the Creative Commons Attribution 3.0 License
-(http://creativecommons.org/licenses/by/3.0/). This means that you are free:
 
-   to Share - to copy, distribute, display, and perform the work
-   to Remix - to make derivative works
-   to make commercial use of the work 
-
-Under the following conditions:
-
-   Attribution - You must attribute the work in the manner specified by the 
-   author or licensor (but not in any way that suggests that they endorse you 
-   or your use of the work). 
-
-   For any reuse or distribution, you must make clear to others the license 
-   terms of this work
-
-   Any of these conditions can be waived if you get permission from the 
-   copyright holder
-
-Attribution: 
-	
-   You must include a credit link to our website(http://www.Styleshout.com) somewhere on
-   your site. We prefer the footer credit that comes with the template but you are still 
-   free to move it somewhere else.
+This project is licensed under the HerTechTrail Cohort 6. Feel free to fork and customize
+it for your own portfolio website. Attribution is appreciated but not required.
 
 
 -----------------------------------------------------------------------------------------------------
 
+TECHNOLOGIES USED:
 
-REMOVING THE LINK:
-
-We understand that there are situations where you want to use the template without the 
-crediting obligation. If that's your case, you can always send us a 
-credit removal fee of 10 USD through Paypal. This will allow you to use the 
-template attribution/credit link free on ONE DOMAIN name. 
-
-You can send your payments through Paypal to this address: ealigam@gmail.com
-
-If possible, kindly send us the site's url where the template is being used. 
-Also, keep your Paypal receipt as proof of payment and your good to go.
-
+HTML5
+CSS
+Bootstrap
 
 ------------------------------------------------------------------------------------------------------ 
 
 
-SUPPORT:
+DEPLOYMENT:
     
-Since KARDS is distributed for free, support is not offered. KARDS is coded according 
-to current web standards and we did our best to make the template easy to use and modify.
-If you have minimum web development experience, you can easily modify the template. 
-However, If you're still new to HTML and CSS, I suggest that you visit the 
-following tutorials:
-
- - http://tutsplus.com/course/30-days-to-learn-html-and-css/
- - http://learn.shayhowe.com/html-css/
-
-These will teach you the essentials of HTML and CSS. In addition, if you want to include
-jQuery in your skill-set, you can also check out these tutorials: 
-
- - http://code.tutsplus.com/courses/30-days-to-learn-jquery
- - http://try.jquery.com/
-
+The website is deployed using Netlify. It is optimized for different devices and browsers 
+to ensure a seamless user experience.
 
 ------------------------------------------------------------------------------------------------------ 
 
 
-GET THE LATEST VERSION:
+ACKNOWLEDGEMENTS:
 
-We update our templates on a regular basis so to make sure that you have the latest version, 
-always download the template files directly at our website(http://www.styleshout.com/)
-
+I would like to express my gratitude to Edozie Magdalene Princess, Jesse Josiah and Ezike 
+Nkemdilim Jane for their contributions, guidance and inspiration in creating this portfolio 
+website. I couldn't have achieved any of this Knowledge without you. Thanks!
 
 
 -------------------------------------------------------------------------------------------------------
 
 
-SOURCES AND CREDITS:
+FEEDBACK AND CONTRIBUTIONS:
 
-I've used the following resources as listed.
+Feedback and suggestions for improvement are always welcome. If you have any ideas or would
+like to contribute to this project, please feel free to reach through my work email - 
+uchechukwunwanja@gmail.com.
 
-Fonts:
- - Lora Font (https://www.google.com/fonts/specimen/Lora)
- - Poppins Font (https://www.google.com/fonts/specimen/Poppins) 
+Thank you for visiting my frontend portfolio website! I hope you enjoy exploring my projects and 
+learning more about my frontend development journey.
 
-Icons:
- - Font Awesome (http://fortawesome.github.io/Font-Awesome/)
- - Micons (http://geticonjar.com/freebies/231-micons/)
- - Micons webfont generated by ICOMOON (https://icomoon.io/)
-
-Stock Photos and Graphics:
- - UnSplash.com (http://unsplash.com/)
- - gratisography.com (http://www.gratisography.com/)
- 
-Javascript Files:
-
- - JQuery (http://jquery.com/)
- - Modernizr (http://modernizr.com/)
- - Waypoints (http://imakewebthings.com/jquery-waypoints/)
- - Magnific Popup (http://dimsemenov.com/plugins/magnific-popup/)
- - jQuery Placeholder (https://github.com/mathiasbynens/jquery-placeholder)
- - FitVids (http://fitvidsjs.com/)
- - Fittext (http://fittextjs.com/)
- - jQuery Validator (http://jqueryvalidation.org/)
- - Imagesloaded (http://imagesloaded.desandro.com/)
- - Masonry (http://masonry.desandro.com)
- - pace js (http://github.hubspot.com/pace/) 
- - owl carousel (http://www.owlgraphic.com/owlcarousel/)
-
- 
 
 --------------------------------------------------------------------------------------------------------- 
 
 
-Thanks for downloading from Styleshout :)
+Thanks for exploring my Portfolio! Contact me for collaboration.
   
-

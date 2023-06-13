@@ -625,19 +625,19 @@ label > input[type="checkbox"], label > input[type="radio"] {
  * -
  */
 ::-webkit-input-placeholder {
-	color: #a1a1a1;
+	color: rgba(255, 255, 255, 0.7);
 }
 :-moz-placeholder {
-	color: #a1a1a1;  /* Firefox 18- */
+	color: rgba(255, 255, 255, 0.7);  /* Firefox 18- */
 }
 ::-moz-placeholder {
-	color: #a1a1a1;  /* Firefox 19+ */
+	color: rgba(255, 255, 255, 0.7);  /* Firefox 19+ */
 }
 :-ms-input-placeholder {
-	color: #a1a1a1;
+	color: rgba(255, 255, 255, 0.7);
 }
 .placeholder {
-	color: #a1a1a1 !important;
+	color: rgba(255, 255, 255, 0.7)!important;
 }
 
 /** 
@@ -1264,7 +1264,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #intro {
-	background: #151515 url("../images/portfolio/mohammad-rahmani-LrxSl4ZxoRs-unsplash.jpg") no-repeat center bottom;
+	background: #151515 url("../images/portfolio/pxfuel\ \(1\).jpg") no-repeat center bottom;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -1460,7 +1460,8 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #about {
-	background-image: url("../images/13294928_5184015.jpg");
+	background-image: url("../images/portfolio/pxfuel.jpg");
+	background-size: cover;
 	background-repeat: no-repeat;
 	padding-top: 12rem;
 	padding-bottom: 15rem;
@@ -2227,7 +2228,8 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #contact {
-	background: #151515;
+	background: #151515 url("../images/portfolio/pxfuel\ \(2\).jpg");
+	background-size: cover;
 	padding-top: 12rem;
 	padding-bottom: 7.2rem;
 }
@@ -2247,19 +2249,19 @@ header .logo a {
 }
 
 .contact-form ::-webkit-input-placeholder {
-	color: rgba(255, 255, 255, 0.3);
+	color: rgba(255, 255, 255, 0.7);
 }
 .contact-form :-moz-placeholder {
-	color: rgba(255, 255, 255, 0.3);  /* Firefox 18- */
+	color: rgba(255, 255, 255, 0.7);  /* Firefox 18- */
 }
 .contact-form ::-moz-placeholder {
-	color: rgba(255, 255, 255, 0.3);  /* Firefox 19+ */
+	color: rgba(255, 255, 255, 0.7);  /* Firefox 19+ */
 }
 .contact-form :-ms-input-placeholder {
-	color: rgba(255, 255, 255, 0.3);
+	color: rgba(255, 255, 255, 0.7);
 }
 .contact-form .placeholder {
-	color: rgba(255, 255, 255, 0.3) !important;
+	color: rgba(255, 255, 255, 0.7) !important;
 }
 
 #contact form {
